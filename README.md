@@ -44,8 +44,6 @@ This project contains an AWS Lambda function that automatically resizes image fi
 
 ## Screenshots
 
-_Add your screen recording or .gif demo here once ready:_
-
 ![Image Resize Demo](./assets/katie-rasch-lambda-test.mp4.gif)
 
 ## License
